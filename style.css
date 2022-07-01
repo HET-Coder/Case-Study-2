@@ -1,0 +1,16 @@
+#heading1{
+    color: red;
+    font-size: large;
+    text-align: center;
+}
+#IMAGES{
+    text-align: center;
+}
+#mobile-net{
+    width: 20%;
+    height: 20%;
+}
+.test_image_and_result{
+    background-color: gray;
+    color: darkturquoise;
+}
